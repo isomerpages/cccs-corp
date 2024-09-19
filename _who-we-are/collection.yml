@@ -2,7 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
-      - Careers.md
-      - Organisation Structure.md
       - Who We Are.md
       - What We Do.md
+      - Organisation Structure.md
+      - Careers.md
