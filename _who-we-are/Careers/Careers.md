@@ -5,9 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Careers
 ---
-<h2><strong>Our People</strong></h2>
-<p>Our people are driven by a common purpose and shared values, both of which
-guide them in every interaction with our stakeholders.</p>
 <h2><strong>Why Join CCCS</strong></h2>
 <h3><strong>Create Value and Make a Difference</strong></h3>
 <p>The Competition and Consumer Commission of Singapore (“CCCS”) administers
@@ -74,21 +71,4 @@ subsidy, Annual health screening)</p>
 <p>Within each group, there is a range of initiatives that are available,
 based on the organisational needs of CCCS and relevance to the profile
 of our staff.</p>
-<h2><strong>Opportunities</strong></h2>
-<p>We are committed to the professional development of our staff and offer
-a work environment that is intellectually challenging, collegial and dynamic.
-We are looking for self-motivated and energetic individuals who are driven
-by a passion for competition and consumer protection work and a desire
-to develop expertise in the areas of competition and fair trading policy,
-law and economics. We welcome applications from individuals who have working
-experience with other competition and consumer protection authorities overseas.</p>
-<h3><strong>CCCS Internship Programme</strong></h3>
-<p>We have two main internship cycles per year. Application for the mid-year
-internship programme is open yearly from Jan - Feb, and application for
-the year-end internship programme is open yearly from Sep - Oct. Interested
-students, please submit your&nbsp;CVs and transcripts via <a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html" rel="noopener noreferrer nofollow" target="_blank">Career@Gov</a> portal
-during the application period.</p>
-<h3><strong>Current Vacancies</strong></h3>
-<p>Visit&nbsp;<a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html" rel="noopener noreferrer" target="_blank">Careers@Gov</a>&nbsp;to
-find out our current vacancies and to submit your application.</p>
 <p></p>
