@@ -2,31 +2,28 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: CCCS
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - "45 Maxwell Road #09-01"
+      - The URA Centre
+      - Singapore 069118
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
         description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+    maps_link: ""
+    title: Main Office
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: 1800 325 8282
+      - email: ""
+      - other: (airtime charges apply for mobile calls to 1800 service lines)
+    title: General Enquiry/Hotline
+  - content:
+      - phone: +65 6325 8282
+      - email: ""
+      - other: ""
+    title: For calls from overseas
+feedback: ""
 ---
